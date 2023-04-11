@@ -1,4 +1,4 @@
-Date,Day,Origin Airport,Flight Number,Arrival Time,"Status (Early, On-time, Late, Severly Late)"
+Date (MM/DD/YYYY),Day,Origin Airport,Flight Number,Arrival Time,"Status (Early, On-time, Late, Severly Late)"
 4/12/2023,Wednesday,ORD,UA 3839,10:00 AM,
 4/12/2023,Wednesday,ORD,UA 3524,4:52 PM,
 4/12/2023,Wednesday,ORD,UA 538,9:34 PM,
