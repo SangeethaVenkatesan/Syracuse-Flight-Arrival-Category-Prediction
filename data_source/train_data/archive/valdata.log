@@ -1,0 +1,128 @@
+2023-04-10 20:04:07,026 - DEBUG - Processing row 0 of 32
+2023-04-10 20:04:07,096 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:08,103 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:08,110 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:08'}, 'data': [{'date': '2023-04-12', 'tavg': 19.6, 'tmin': 13.8, 'tmax': 25.5, 'prcp': None, 'snow': None, 'wdir': 222.0, 'wspd': 23.4, 'wpgt': None, 'pres': 1013.8, 'tsun': None}]}
+2023-04-10 20:04:08,118 - DEBUG - Processing row 1 of 32
+2023-04-10 20:04:08,122 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:08,921 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:08,925 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:08'}, 'data': [{'date': '2023-04-12', 'tavg': 19.6, 'tmin': 13.8, 'tmax': 25.5, 'prcp': None, 'snow': None, 'wdir': 222.0, 'wspd': 23.4, 'wpgt': None, 'pres': 1013.8, 'tsun': None}]}
+2023-04-10 20:04:08,928 - DEBUG - Processing row 2 of 32
+2023-04-10 20:04:08,932 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:09,943 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:09,947 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:08'}, 'data': [{'date': '2023-04-12', 'tavg': 19.6, 'tmin': 13.8, 'tmax': 25.5, 'prcp': None, 'snow': None, 'wdir': 222.0, 'wspd': 23.4, 'wpgt': None, 'pres': 1013.8, 'tsun': None}]}
+2023-04-10 20:04:09,950 - DEBUG - Processing row 3 of 32
+2023-04-10 20:04:09,954 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:10,864 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:10,866 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:10'}, 'data': [{'date': '2023-04-13', 'tavg': 19.0, 'tmin': 12.9, 'tmax': 24.7, 'prcp': None, 'snow': None, 'wdir': 207.0, 'wspd': 19.2, 'wpgt': None, 'pres': 1010.8, 'tsun': None}]}
+2023-04-10 20:04:10,868 - DEBUG - Processing row 4 of 32
+2023-04-10 20:04:10,872 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:11,783 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:11,786 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:10'}, 'data': [{'date': '2023-04-13', 'tavg': 19.0, 'tmin': 12.9, 'tmax': 24.7, 'prcp': None, 'snow': None, 'wdir': 207.0, 'wspd': 19.2, 'wpgt': None, 'pres': 1010.8, 'tsun': None}]}
+2023-04-10 20:04:11,788 - DEBUG - Processing row 5 of 32
+2023-04-10 20:04:11,793 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:12,283 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:12,285 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:10'}, 'data': [{'date': '2023-04-13', 'tavg': 19.0, 'tmin': 12.9, 'tmax': 24.7, 'prcp': None, 'snow': None, 'wdir': 207.0, 'wspd': 19.2, 'wpgt': None, 'pres': 1010.8, 'tsun': None}]}
+2023-04-10 20:04:12,287 - DEBUG - Processing row 6 of 32
+2023-04-10 20:04:12,290 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:12,884 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:12,888 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:12'}, 'data': [{'date': '2023-04-14', 'tavg': 17.7, 'tmin': 13.1, 'tmax': 23.4, 'prcp': None, 'snow': None, 'wdir': 181.0, 'wspd': 15.5, 'wpgt': None, 'pres': 1008.9, 'tsun': None}]}
+2023-04-10 20:04:12,891 - DEBUG - Processing row 7 of 32
+2023-04-10 20:04:12,895 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:13,498 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:13,501 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:12'}, 'data': [{'date': '2023-04-14', 'tavg': 17.7, 'tmin': 13.1, 'tmax': 23.4, 'prcp': None, 'snow': None, 'wdir': 181.0, 'wspd': 15.5, 'wpgt': None, 'pres': 1008.9, 'tsun': None}]}
+2023-04-10 20:04:13,504 - DEBUG - Processing row 8 of 32
+2023-04-10 20:04:13,508 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:13,986 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:13,990 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:12'}, 'data': [{'date': '2023-04-14', 'tavg': 17.7, 'tmin': 13.1, 'tmax': 23.4, 'prcp': None, 'snow': None, 'wdir': 181.0, 'wspd': 15.5, 'wpgt': None, 'pres': 1008.9, 'tsun': None}]}
+2023-04-10 20:04:13,994 - DEBUG - Processing row 9 of 32
+2023-04-10 20:04:13,999 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:14,655 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:14,659 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:14'}, 'data': [{'date': '2023-04-15', 'tavg': 14.9, 'tmin': 9.9, 'tmax': 18.2, 'prcp': None, 'snow': None, 'wdir': 205.0, 'wspd': 16.5, 'wpgt': None, 'pres': 1009.8, 'tsun': None}]}
+2023-04-10 20:04:14,662 - DEBUG - Processing row 10 of 32
+2023-04-10 20:04:14,666 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:15,255 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:15,260 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:14'}, 'data': [{'date': '2023-04-15', 'tavg': 14.9, 'tmin': 9.9, 'tmax': 18.2, 'prcp': None, 'snow': None, 'wdir': 205.0, 'wspd': 16.5, 'wpgt': None, 'pres': 1009.8, 'tsun': None}]}
+2023-04-10 20:04:15,262 - DEBUG - Processing row 11 of 32
+2023-04-10 20:04:15,267 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:15,870 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72530&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:15,873 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:14'}, 'data': [{'date': '2023-04-15', 'tavg': 14.9, 'tmin': 9.9, 'tmax': 18.2, 'prcp': None, 'snow': None, 'wdir': 205.0, 'wspd': 16.5, 'wpgt': None, 'pres': 1009.8, 'tsun': None}]}
+2023-04-10 20:04:15,876 - DEBUG - Processing row 12 of 32
+2023-04-10 20:04:15,881 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:16,804 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72565&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:16,808 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:16'}, 'data': [{'date': '2023-04-12', 'tavg': 19.0, 'tmin': 12.1, 'tmax': 26.7, 'prcp': None, 'snow': None, 'wdir': 193.0, 'wspd': 21.7, 'wpgt': None, 'pres': 1002.8, 'tsun': None}]}
+2023-04-10 20:04:16,811 - DEBUG - Processing row 13 of 32
+2023-04-10 20:04:16,815 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:17,502 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72565&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:17,504 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:17'}, 'data': [{'date': '2023-04-13', 'tavg': 16.1, 'tmin': 9.2, 'tmax': 22.5, 'prcp': None, 'snow': None, 'wdir': 143.0, 'wspd': 21.5, 'wpgt': None, 'pres': 996.2, 'tsun': None}]}
+2023-04-10 20:04:17,506 - DEBUG - Processing row 14 of 32
+2023-04-10 20:04:17,509 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:18,351 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72565&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:18,355 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:18'}, 'data': [{'date': '2023-04-14', 'tavg': 4.5, 'tmin': 1.2, 'tmax': 8.1, 'prcp': None, 'snow': None, 'wdir': 28.0, 'wspd': 18.5, 'wpgt': None, 'pres': 1007.6, 'tsun': None}]}
+2023-04-10 20:04:18,358 - DEBUG - Processing row 15 of 32
+2023-04-10 20:04:18,362 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:18,957 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72565&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:18,961 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:18'}, 'data': [{'date': '2023-04-15', 'tavg': 3.1, 'tmin': -1.1, 'tmax': 7.9, 'prcp': None, 'snow': None, 'wdir': 359.0, 'wspd': 16.1, 'wpgt': None, 'pres': 1019.9, 'tsun': None}]}
+2023-04-10 20:04:18,964 - DEBUG - Processing row 16 of 32
+2023-04-10 20:04:18,968 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:20,000 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:20,004 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:20'}, 'data': [{'date': '2023-04-12', 'tavg': 20.5, 'tmin': 15.8, 'tmax': 26.8, 'prcp': None, 'snow': None, 'wdir': 265.0, 'wspd': 21.4, 'wpgt': None, 'pres': 1011.6, 'tsun': None}]}
+2023-04-10 20:04:20,006 - DEBUG - Processing row 17 of 32
+2023-04-10 20:04:20,011 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:20,462 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:20,466 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:20'}, 'data': [{'date': '2023-04-12', 'tavg': 20.5, 'tmin': 15.8, 'tmax': 26.8, 'prcp': None, 'snow': None, 'wdir': 265.0, 'wspd': 21.4, 'wpgt': None, 'pres': 1011.6, 'tsun': None}]}
+2023-04-10 20:04:20,469 - DEBUG - Processing row 18 of 32
+2023-04-10 20:04:20,473 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:21,101 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:21,103 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:21'}, 'data': [{'date': '2023-04-13', 'tavg': 22.4, 'tmin': 16.4, 'tmax': 29.6, 'prcp': None, 'snow': None, 'wdir': 250.0, 'wspd': 15.7, 'wpgt': None, 'pres': 1011.3, 'tsun': None}]}
+2023-04-10 20:04:21,105 - DEBUG - Processing row 19 of 32
+2023-04-10 20:04:21,109 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:21,698 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:21,702 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:21'}, 'data': [{'date': '2023-04-13', 'tavg': 22.4, 'tmin': 16.4, 'tmax': 29.6, 'prcp': None, 'snow': None, 'wdir': 250.0, 'wspd': 15.7, 'wpgt': None, 'pres': 1011.3, 'tsun': None}]}
+2023-04-10 20:04:21,704 - DEBUG - Processing row 20 of 32
+2023-04-10 20:04:21,709 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:22,425 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:22,428 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:22'}, 'data': [{'date': '2023-04-14', 'tavg': 21.9, 'tmin': 17.2, 'tmax': 27.8, 'prcp': None, 'snow': None, 'wdir': 224.0, 'wspd': 13.2, 'wpgt': None, 'pres': 1012.8, 'tsun': None}]}
+2023-04-10 20:04:22,430 - DEBUG - Processing row 21 of 32
+2023-04-10 20:04:22,434 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:23,290 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:23,292 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:22'}, 'data': [{'date': '2023-04-14', 'tavg': 21.9, 'tmin': 17.2, 'tmax': 27.8, 'prcp': None, 'snow': None, 'wdir': 224.0, 'wspd': 13.2, 'wpgt': None, 'pres': 1012.8, 'tsun': None}]}
+2023-04-10 20:04:23,294 - DEBUG - Processing row 22 of 32
+2023-04-10 20:04:23,297 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:23,796 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:23,798 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:23'}, 'data': [{'date': '2023-04-15', 'tavg': 19.1, 'tmin': 16.8, 'tmax': 21.7, 'prcp': None, 'snow': None, 'wdir': 174.0, 'wspd': 12.2, 'wpgt': None, 'pres': 1014.3, 'tsun': None}]}
+2023-04-10 20:04:23,800 - DEBUG - Processing row 23 of 32
+2023-04-10 20:04:23,803 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:24,387 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72502&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:24,391 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:23'}, 'data': [{'date': '2023-04-15', 'tavg': 19.1, 'tmin': 16.8, 'tmax': 21.7, 'prcp': None, 'snow': None, 'wdir': 174.0, 'wspd': 12.2, 'wpgt': None, 'pres': 1014.3, 'tsun': None}]}
+2023-04-10 20:04:24,394 - DEBUG - Processing row 24 of 32
+2023-04-10 20:04:24,398 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:25,279 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:25,281 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:25'}, 'data': [{'date': '2023-04-12', 'tavg': 19.2, 'tmin': 12.7, 'tmax': 27.0, 'prcp': None, 'snow': None, 'wdir': 262.0, 'wspd': 12.1, 'wpgt': None, 'pres': 1016.5, 'tsun': None}]}
+2023-04-10 20:04:25,284 - DEBUG - Processing row 25 of 32
+2023-04-10 20:04:25,289 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:25,827 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-12&end=2023-04-12&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:25,831 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:25'}, 'data': [{'date': '2023-04-12', 'tavg': 19.2, 'tmin': 12.7, 'tmax': 27.0, 'prcp': None, 'snow': None, 'wdir': 262.0, 'wspd': 12.1, 'wpgt': None, 'pres': 1016.5, 'tsun': None}]}
+2023-04-10 20:04:25,834 - DEBUG - Processing row 26 of 32
+2023-04-10 20:04:25,838 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:26,844 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:26,848 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:26'}, 'data': [{'date': '2023-04-13', 'tavg': 20.9, 'tmin': 14.1, 'tmax': 28.7, 'prcp': None, 'snow': None, 'wdir': 231.0, 'wspd': 8.9, 'wpgt': None, 'pres': 1014.7, 'tsun': None}]}
+2023-04-10 20:04:26,851 - DEBUG - Processing row 27 of 32
+2023-04-10 20:04:26,855 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:27,414 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-13&end=2023-04-13&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:27,418 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:26'}, 'data': [{'date': '2023-04-13', 'tavg': 20.9, 'tmin': 14.1, 'tmax': 28.7, 'prcp': None, 'snow': None, 'wdir': 231.0, 'wspd': 8.9, 'wpgt': None, 'pres': 1014.7, 'tsun': None}]}
+2023-04-10 20:04:27,421 - DEBUG - Processing row 28 of 32
+2023-04-10 20:04:27,426 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:28,278 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:28,281 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:28'}, 'data': [{'date': '2023-04-14', 'tavg': 20.7, 'tmin': 15.2, 'tmax': 28.0, 'prcp': None, 'snow': None, 'wdir': 185.0, 'wspd': 11.3, 'wpgt': None, 'pres': 1013.6, 'tsun': None}]}
+2023-04-10 20:04:28,283 - DEBUG - Processing row 29 of 32
+2023-04-10 20:04:28,288 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:29,194 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-14&end=2023-04-14&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:29,198 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:28'}, 'data': [{'date': '2023-04-14', 'tavg': 20.7, 'tmin': 15.2, 'tmax': 28.0, 'prcp': None, 'snow': None, 'wdir': 185.0, 'wspd': 11.3, 'wpgt': None, 'pres': 1013.6, 'tsun': None}]}
+2023-04-10 20:04:29,200 - DEBUG - Processing row 30 of 32
+2023-04-10 20:04:29,205 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:30,125 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:30,132 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:30'}, 'data': [{'date': '2023-04-15', 'tavg': 20.3, 'tmin': 16.8, 'tmax': 24.1, 'prcp': None, 'snow': None, 'wdir': 183.0, 'wspd': 10.2, 'wpgt': None, 'pres': 1014.2, 'tsun': None}]}
+2023-04-10 20:04:30,134 - DEBUG - Processing row 31 of 32
+2023-04-10 20:04:30,140 - DEBUG - Starting new HTTPS connection (1): meteostat.p.rapidapi.com:443
+2023-04-10 20:04:30,504 - DEBUG - https://meteostat.p.rapidapi.com:443 "GET /stations/daily?station=72403&start=2023-04-15&end=2023-04-15&units=metric HTTP/1.1" 200 None
+2023-04-10 20:04:30,506 - DEBUG - {'meta': {'generated': '2023-04-11 00:04:30'}, 'data': [{'date': '2023-04-15', 'tavg': 20.3, 'tmin': 16.8, 'tmax': 24.1, 'prcp': None, 'snow': None, 'wdir': 183.0, 'wspd': 10.2, 'wpgt': None, 'pres': 1014.2, 'tsun': None}]}
