@@ -1,0 +1,33 @@
+Date,Day,Origin Airport,Flight Number,Arrival Time,Status 
+4/12/2023,Wednesday,ORD,UA 3839,10:00 AM,Early
+4/12/2023,Wednesday,ORD,UA 3524,4:52 PM,On-Time
+4/12/2023,Wednesday,ORD,UA 538,9:34 PM,On-Time
+4/13/2023,Thursday,ORD,UA 3839,10:00 AM,Late
+4/13/2023,Thursday,ORD,UA 3524,4:50 PM,Early
+4/13/2023,Thursday,ORD,UA 538,9:34 PM,On-Time
+4/14/2023,Friday,ORD,UA 3839,10:00 AM,On-Time
+4/14/2023,Friday,ORD,UA 3524,4:50 PM,Early
+4/14/2023,Friday,ORD,UA 538,9:34 PM,Early
+4/15/2023,Saturday,ORD,UA 3839,10:00 AM,Early
+4/15/2023,Saturday,ORD,UA 3524,4:50 PM,Early
+4/15/2023,Saturday,ORD,UA 538,9:34 PM,Severely Late
+4/12/2023,Wednesday,DEN,UA 604,3:12 PM,Severely Late
+4/13/2023,Thursday,DEN,UA 604,3:12 PM,On-Time
+4/14/2023,Friday,DEN,UA 604,3:12 PM,On-Time
+4/15/2023,Saturday,DEN,UA 604,3:12 PM,Severely Late
+4/12/2023,Wednesday,EWR,UA 4189,10:46 AM,Early
+4/12/2023,Wednesday,EWR,UA 1412,11:42 PM,Early
+4/13/2023,Thursday,EWR,UA 4189,10:46 AM,Early
+4/13/2023,Thursday,EWR,UA 1412,11:42 PM,Early
+4/14/2023,Friday,EWR,UA 4189,10:46 AM,Early
+4/14/2023,Friday,EWR,UA 1412,11:42 PM,On-Time
+4/15/2023,Saturday,EWR,UA 4189,10:46 AM,Early
+4/15/2023,Saturday,EWR,UA 1412,11:17 PM,Severely Late
+4/12/2023,Wednesday,IAD,UA 4490,1:57 PM,Early
+4/12/2023,Wednesday,IAD,UA 4165,6:59 PM,On-time
+4/13/2023,Thursday,IAD,UA 4490,1:57 PM,On-Time
+4/13/2023,Thursday,IAD,UA 4165,6:59 PM,Early
+4/14/2023,Friday,IAD,UA 4490,1:57 PM,On-Time
+4/14/2023,Friday,IAD,UA 4165,6:59 PM,Early
+4/15/2023,Saturday,IAD,UA 3805,1:58 PM,Late
+4/15/2023,Saturday,IAD,UA 4165,6:59 PM,Canceled
